@@ -2,7 +2,7 @@
 
 ### Paramenter
 
-```js
+```json
 
 
 ```
